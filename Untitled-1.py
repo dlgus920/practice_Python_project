@@ -97,3 +97,8 @@ print(orgin_id)
 print(repli_id)
 
 print("Git!")
+
+Git_ = True
+
+if(Git_):
+    print("Git! sucesss!")
